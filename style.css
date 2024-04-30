@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+    color: rgb(59, 44, 59);
+}
+
+.alcinalogo{
+    border-radius: 100%;
+    max-width: 40%;
+}
+.alcinanome{
+    text-align: center;
+    margin-top: -50px;
+    color: #523053;
+    border: solid 1px plum;
+}
+.teali{
+    margin-left: -830px;
+    float: left;
+    color: plum;
+}
+.teju{
+    color: plum;
+    float: left;
+    margin-left: 450px;
+}
+.teva{
+    color: plum;
+    float: left;
+    margin-left: 250px;
+}
+.teyas{
+    float: left;
+    margin-left: 250px;
+    color: plum;
+}
+.resuyas{
+    font-size: small;
+    text-align: center;
+    float: left;
+    margin-left: 950px;
+    margin-top: -170px;
+    color: plum;
+}
+.resuju{
+    font-size: small;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    color: plum;
+}
+.resuali{
+    font-size: small;
+    text-align: center;
+    float: left;
+    margin-left: -25px;
+    color: plum;
+}
+.resuva{
+    font-size: small;
+    text-align: center;
+    float: left;
+    margin-left: 18px;
+    color: plum;
+}
+.portifolioalisson{
+    float: left;
+    margin-top: 5px;
+    border: 2px solid=plum;
+    border-radius: 20px;
+}
+.portifoliojulia{
+margin-left: 23px;
+float: left;
+margin-top: 5px;
+border: 2px solid=plum;
+}
+.portifoliovanessa{
+    float: left;
+    margin-left: 23px; 
+    margin-top: 5px;
+    border: 2px solid=plum;
+}
+.portifolioyasmin{
+    margin-left: 23px;
+    margin-top: 10px;
+    border: 2px solid=plum;
+}
+li {
+    list-style-type: none;
+  }
+
+.footer{
+    border-top: solid 1px plum;
+    margin-bottom: -310px;
+    position:absolute;
+    left: 0;
+    bottom: 5px;
+    width: 100%;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    text-align: center;
+}
